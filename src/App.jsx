@@ -3,8 +3,6 @@ import Card from './components/Card.jsx'
 import Navbar from './components/Navbar.jsx'
 import Hero from './components/Hero.jsx'
 import Scroll from './components/Scroll.jsx'
-import Content from './components/content.jsx'
-import pic from './assets/image.png'
 function App() {
   return (
     <div>
