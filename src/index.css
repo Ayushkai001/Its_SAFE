@@ -1,0 +1,13 @@
+/* index.css */
+@import "tailwindcss";
+:root {
+            --cyan-glow: #06b6d4;
+            --deep-void: #030303;
+        }
+        body {
+            background-color: var(--deep-void);
+        }
+        .hero-title {
+            @apply text-center font-semibold text-3xl
+            opacity-0 max-md:mb-10 ;
+        }

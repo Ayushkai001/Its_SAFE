@@ -1,0 +1,9 @@
+<svg width="400" height="560" viewBox="0 0 400 560" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="560" fill="#C7ECEC" rx="32" />
+  <!-- big arcs -->
+  <path d="M-50 280 A330 330 0 0 1 400 280" fill="none" stroke="#9AD4D4" stroke-width="2"/>
+  <path d="M0 420 A260 260 0 0 1 400 420" fill="none" stroke="#9AD4D4" stroke-width="2"/>
+  <path d="M80 560 A220 220 0 0 1 400 300" fill="none" stroke="#9AD4D4" stroke-width="2"/>
+  <!-- small arc near top-left -->
+  <path d="M-40 80 A160 160 0 0 1 160 80" fill="none" stroke="#9AD4D4" stroke-width="2"/>
+</svg>
