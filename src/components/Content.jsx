@@ -1,5 +1,4 @@
 import React from 'react'
-import video from '../assets/video.mp4'
 import pic from '../assets/image.png'
 
 const Content = () => {

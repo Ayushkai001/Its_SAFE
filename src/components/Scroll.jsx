@@ -1,6 +1,4 @@
 import React, { useEffect, useRef, useState } from 'react';
-import Card from './Card.jsx';
-import Hero from './Hero.jsx';
 import Content from './content.jsx';
 import { useNavigate } from 'react-router-dom';
 
